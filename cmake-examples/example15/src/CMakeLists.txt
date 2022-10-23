@@ -1,0 +1,7 @@
+cmake_minimum_required(VERSION 3.22.1)
+add_executable(main1 main1.c)
+if(MYDEBUG)
+	add_executable(main2 main2.c)
+else()
+	message(STATUS "current is not debug mode")
+endif()

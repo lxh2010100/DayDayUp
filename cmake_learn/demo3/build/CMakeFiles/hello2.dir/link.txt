@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/hello2.dir/src/hello2.c.o -o hello2 

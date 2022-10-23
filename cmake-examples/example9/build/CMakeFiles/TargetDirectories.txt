@@ -1,0 +1,4 @@
+/home/luxihuac/Desktop/cmake_example/example9/build/CMakeFiles/testfunc_shared.dir
+/home/luxihuac/Desktop/cmake_example/example9/build/CMakeFiles/testfunc_static.dir
+/home/luxihuac/Desktop/cmake_example/example9/build/CMakeFiles/edit_cache.dir
+/home/luxihuac/Desktop/cmake_example/example9/build/CMakeFiles/rebuild_cache.dir

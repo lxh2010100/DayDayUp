@@ -1,0 +1,5 @@
+cmake_minimum_required(VERSION 3.22.1)
+project(example15_main)
+option(MYDEBUG "enable debuge compiler option" OFF)
+set(EXECUTABLE_OUTPUT_PATH ${PROJECT_SOURCE_DIR}/bin)
+add_subdirectory(src)

@@ -1,0 +1,6 @@
+/home/luxihua/Desktop/DayDayUp/cmake_learn/demo4/build/CMakeFiles/edit_cache.dir
+/home/luxihua/Desktop/DayDayUp/cmake_learn/demo4/build/CMakeFiles/rebuild_cache.dir
+/home/luxihua/Desktop/DayDayUp/cmake_learn/demo4/build/bin/CMakeFiles/hello_shared.dir
+/home/luxihua/Desktop/DayDayUp/cmake_learn/demo4/build/bin/CMakeFiles/hello_static.dir
+/home/luxihua/Desktop/DayDayUp/cmake_learn/demo4/build/bin/CMakeFiles/edit_cache.dir
+/home/luxihua/Desktop/DayDayUp/cmake_learn/demo4/build/bin/CMakeFiles/rebuild_cache.dir

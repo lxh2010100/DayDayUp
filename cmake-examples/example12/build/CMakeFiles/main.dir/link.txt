@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/main.dir/src/main.c.o -o ../bin/main  ../testfunc/lib/libtestfunc.a 

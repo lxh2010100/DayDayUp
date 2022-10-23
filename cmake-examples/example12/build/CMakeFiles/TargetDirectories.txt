@@ -1,0 +1,3 @@
+/home/luxihuac/Desktop/cmake_example/example12/build/CMakeFiles/main.dir
+/home/luxihuac/Desktop/cmake_example/example12/build/CMakeFiles/edit_cache.dir
+/home/luxihuac/Desktop/cmake_example/example12/build/CMakeFiles/rebuild_cache.dir

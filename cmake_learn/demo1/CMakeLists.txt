@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 3.22.1)
+project(demo1)
+add_compile_options(-g -static)
+add_executable(hello1 src/hello1.c)
+add_executable(hello2 src/hello2.c)
+add_executable(hello3 src/hello3.c)
