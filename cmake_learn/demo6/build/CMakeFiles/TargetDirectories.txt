@@ -1,0 +1,7 @@
+/home/luxihua/Desktop/DayDayUp/cmake_learn/demo6/build/CMakeFiles/main.dir
+/home/luxihua/Desktop/DayDayUp/cmake_learn/demo6/build/CMakeFiles/edit_cache.dir
+/home/luxihua/Desktop/DayDayUp/cmake_learn/demo6/build/CMakeFiles/rebuild_cache.dir
+/home/luxihua/Desktop/DayDayUp/cmake_learn/demo6/build/src/CMakeFiles/add.dir
+/home/luxihua/Desktop/DayDayUp/cmake_learn/demo6/build/src/CMakeFiles/sub.dir
+/home/luxihua/Desktop/DayDayUp/cmake_learn/demo6/build/src/CMakeFiles/edit_cache.dir
+/home/luxihua/Desktop/DayDayUp/cmake_learn/demo6/build/src/CMakeFiles/rebuild_cache.dir

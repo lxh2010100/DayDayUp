@@ -1,0 +1,3 @@
+/home/luxihua/Desktop/DayDayUp/cmake_learn/demo7/build/CMakeFiles/main.dir
+/home/luxihua/Desktop/DayDayUp/cmake_learn/demo7/build/CMakeFiles/edit_cache.dir
+/home/luxihua/Desktop/DayDayUp/cmake_learn/demo7/build/CMakeFiles/rebuild_cache.dir
