@@ -1,0 +1,6 @@
+#!/usr/bin/expect
+spawn ssh luxihua@192.168.0.109
+expect "*Password:"
+send "cc86c854\r"
+expect "*$"
+interact

@@ -1,0 +1,7 @@
+#!/usr/bin/expect
+set timeout 5
+expect {
+    "hello" {send "hello world\n"} 
+    "hi" {send "hi world\n"}
+    "bye" {send "bye world\n"}
+}

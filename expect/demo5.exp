@@ -1,0 +1,14 @@
+#!/usr/bin/expect
+# set uname [lindex $argv 0]
+# set pwd [lindex $argv 1]
+# puts "$argc"
+# spawn ssh ${uname}@127.0.0.1
+# expect "*password:"
+
+# send "${pwd}\r"
+# expect "#"
+
+# send "exit \r"
+# expect eof
+puts "-------$argv0----------"
+puts "-------$argc----------"
