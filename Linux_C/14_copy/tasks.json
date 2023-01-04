@@ -1,0 +1,41 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "type": "shell",
+            "label": "switch directory",
+            "command": "cd",
+            "args": [
+                "${workspaceRoot}/Desktop/DayDayUp/Linux_C/14_copy/build/"
+            ]
+        },
+        {
+            // "type": "shell",
+            "label": "cmake",
+            "command": "cmake",
+            "args": [
+                ".."
+            ]
+        },
+        {
+            // "type": "shell",
+            "label": "make",
+            "group": {
+                "kind": "build",
+                "isDefault": true
+            },
+            "command": "make",
+            "args": []
+        },
+        {
+            // "type": "shell",
+            "label": "build",
+            "dependsOrder": "sequence",
+            "dependsOn": [
+                "switch directory",
+                "cmake",
+                "make"
+            ]
+        }
+    ]
+}
