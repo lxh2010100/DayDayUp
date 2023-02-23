@@ -1,0 +1,22 @@
+{
+    tool_target_hello_linux_x86_64_ld = {
+        toolchain_info = {
+            arch = "x86_64",
+            name = "gcc",
+            cachekey = "gcc_arch_x86_64_plat_linux",
+            plat = "linux"
+        },
+        toolname = "gxx",
+        program = "/usr/bin/g++"
+    },
+    tool_target_hello_linux_x86_64_cc = {
+        toolchain_info = {
+            arch = "x86_64",
+            name = "gcc",
+            cachekey = "gcc_arch_x86_64_plat_linux",
+            plat = "linux"
+        },
+        toolname = "gcc",
+        program = "/usr/bin/gcc"
+    }
+}
