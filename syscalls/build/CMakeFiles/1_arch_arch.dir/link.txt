@@ -1,1 +1,0 @@
-/usr/bin/c++ -rdynamic CMakeFiles/1_arch_arch.dir/1_arch/arch.cpp.o -o 1_arch_arch   -L/home/jack-kingc/Desktop/github/DayDayUp/syscalls/../googletest/lib  -Wl,-rpath,/home/jack-kingc/Desktop/github/DayDayUp/syscalls/../googletest/lib -Wl,-Bstatic -lgtest -lgtest_main -Wl,-Bdynamic 
