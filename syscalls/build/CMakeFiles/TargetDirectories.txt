@@ -1,0 +1,3 @@
+/home/jack-kingc/Desktop/github/DayDayUp/syscalls/build/CMakeFiles/1_arch_arch.dir
+/home/jack-kingc/Desktop/github/DayDayUp/syscalls/build/CMakeFiles/edit_cache.dir
+/home/jack-kingc/Desktop/github/DayDayUp/syscalls/build/CMakeFiles/rebuild_cache.dir
